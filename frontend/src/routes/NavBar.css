@@ -1,0 +1,16 @@
+.NavBar {
+  background-color: forestgreen;
+  border-bottom: 2px solid lightblue;
+}
+.nav-link,
+.navbar-brand {
+  color: snow;
+}
+.nav-link:hover,
+.navbar-brand:hover {
+  color: lightblue;
+}
+.nav-link.active {
+  font-weight: bold;
+  color: #f0ad4e;
+}
